@@ -1,0 +1,216 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0,
+  .style1 {
+    display: flex;
+    flex-direction: column
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/9lhfawcjp8g30dj.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    margin-top: 0;
+    width: 375px;
+    height: 250px
+  }
+  .style1 {
+    background-color: #45994d;
+    margin-left: 22px;
+    margin-top: 9px;
+    width: 120px;
+    height: 36px;
+    align-items: center
+  }
+  .style2,
+  .style3 {
+    color: #000;
+    text-align: center;
+    font-family: arial,serif;
+    font-size: .5625em;
+    font-weight: 700;
+    margin-top: 11px;
+    height: 9px
+  }
+  .style3 {
+    font-size: 1.5em;
+    font-style: italic;
+    margin-left: 227px;
+    margin-top: 3px;
+    height: 50px
+  }
+  .style4 {
+    margin-left: 153px;
+    margin-top: 109px;
+    width: 98px;
+    height: 39px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0,
+  .style1 {
+    display: flex;
+    flex-direction: column
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/9lhfawcjp8g30dj.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    margin-top: 0;
+    width: 768px;
+    height: 512px
+  }
+  .style1 {
+    background-color: #45994d;
+    margin-left: 45px;
+    margin-top: 18px;
+    width: 246px;
+    height: 74px;
+    align-items: center
+  }
+  .style2,
+  .style3 {
+    color: #000;
+    text-align: center;
+    font-family: arial,serif;
+    font-size: 1.1520000000000001em;
+    font-weight: 700;
+    margin-top: 23px;
+    height: 18px
+  }
+  .style3 {
+    font-size: 3.072em;
+    font-style: italic;
+    margin-left: 465px;
+    margin-top: 6px;
+    height: 102px
+  }
+  .style4 {
+    margin-left: 313px;
+    margin-top: 223px;
+    width: 201px;
+    height: 80px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0,
+  .style1 {
+    display: flex;
+    flex-direction: column
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/9lhfawcjp8g30dj.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    margin-top: 0;
+    width: 920px;
+    height: 613px
+  }
+  .style1 {
+    background-color: #45994d;
+    margin-left: 54px;
+    margin-top: 22px;
+    width: 294px;
+    height: 88px;
+    align-items: center
+  }
+  .style2,
+  .style3 {
+    color: #000;
+    text-align: center;
+    font-family: arial,serif;
+    font-size: 1.38em;
+    font-weight: 700;
+    margin-top: 27px;
+    height: 22px
+  }
+  .style3 {
+    font-size: 3.6799999999999997em;
+    font-style: italic;
+    margin-left: 557px;
+    margin-top: 7px;
+    height: 123px
+  }
+  .style4 {
+    margin-left: 375px;
+    margin-top: 267px;
+    width: 240px;
+    height: 96px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0,
+  .style1 {
+    display: flex;
+    flex-direction: column
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/9lhfawcjp8g30dj.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1200px;
+    height: 800px
+  }
+  .style1 {
+    background-color: #45994d;
+    margin-left: 70px;
+    margin-top: 29px;
+    width: 384px;
+    height: 115px;
+    align-items: center
+  }
+  .style2,
+  .style3 {
+    color: #000;
+    text-align: center;
+    font-family: arial,serif;
+    font-size: 1.8em;
+    font-weight: 700;
+    margin-top: 35px;
+    height: 29px
+  }
+  .style3 {
+    font-size: 4.800000000000001em;
+    font-style: italic;
+    margin-left: 726px;
+    margin-top: 10px;
+    height: 160px
+  }
+  .style4 {
+    margin-left: 490px;
+    margin-top: 349px;
+    width: 314px;
+    height: 125px
+  }
+}
